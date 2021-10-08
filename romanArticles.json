@@ -1,0 +1,14 @@
+[{
+    "articleID": 1,
+    "articleTitle": "The Romans",
+    "articleContent": "",
+    "articleDate": "07/09/1997",
+    "articleTags": [ "history", "Romans", "Europe", "ancient" ]
+  }, 
+  {
+  "articleID": 2,
+  "articleTitle": "Roman Cities",
+  "articleContent": "Rome, Pompei, Herculaneum, Nyon, Nimes, Arles",
+  "articleDate": "12/10/1998",
+  "articleTags": ["towns", "cities", "Roman", "European"]
+}]
